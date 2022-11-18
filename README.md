@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+[![@hidayat's Holopin board](https://holopin.me/hidayat)](https://holopin.io/@hidayat)
+- 🌱 I’m currently learning Business Information System
 <!--
 **AhmadHidayatP/AhmadHidayatP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
